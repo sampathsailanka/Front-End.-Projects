@@ -8,3 +8,5 @@ Front-End Projects using HTML5, CSS3 &amp; JavaScipt (Responsive Web Pages)
 3. Sluralpright-Login-Page - https://sampathsailanka.github.io/Sluralpright-Login-Page/
 
 4. ThinkQ-Designer-Home-page - https://sampathsailanka.github.io/ThinkQ-Designer-Home-page/
+
+5. Double Slider Sign-IN/Sign-Out Page - https://sampathsailanka.github.io/Double-Slider-SigIn-Up-Page/
